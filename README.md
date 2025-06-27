@@ -27,6 +27,9 @@ Sub Hunt, Space, Block, Race, PxMan, Pong, Sheriff
 
 Il programma principale main.py consente di selezionare e avviare ogni gioco direttamente dal mini cabinato.
 
+Link al video:
+<a href="https://youtu.be/15fPJXyQuL0"><img src="https://github.com/zeus074/Pixel-Arcade/blob/main/img/yt_video.jpg"></a>
+
 
 🧰 Componenti
 
