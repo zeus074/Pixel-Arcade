@@ -128,6 +128,6 @@ Trovare il firmware da caricare su RP2040 nella cartella firmware.
 
 📎 Ringraziamenti
 
-    A Davide Gatti (Survival Hacking) per la base OraQuadra su cui si basa la struttura del cabinato.
-	
-	https://github.com/SurvivalHacking/OraQuadra
+A Davide Gatti (Survival Hacking) per la base OraQuadra su cui si basa la struttura del cabinato.
+
+https://github.com/SurvivalHacking/OraQuadra
