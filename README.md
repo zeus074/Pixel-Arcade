@@ -27,53 +27,47 @@ Sub Hunt, Space, Block, Race, PxMan, Pong, Sheriff
 
 🧰 Componenti
 
-    Raspberry Pi Pico 2040
+Struttura stampata in 3D : https://makerworld.com/it/models/1554656-bartop-pixel-arcade-game#profileId-1633266
+	
+#Materiale utilizzato - link Amazon/Aliexpress:
+	
+Pulsante START: 7mm PBS-110
 
-    Display LED 16x16 WS2812 (NeoPixel)
+- https://amzn.eu/d/9DxOjs4
+	
+- https://it.aliexpress.com/item/1005008333401098.html
+	
+Pulsanti: Pulsante 16MM 3A 
+	
+- https://amzn.eu/d/bFmCU81
+	
+- https://it.aliexpress.com/item/1005001709481942.html
+	
+Pannello 16x16 WS2812B: 
+	
+- https://amzn.eu/d/deiAU8E
+	
+- https://it.aliexpress.com/item/4001298469994.html
+	
+Raspberry PI PICO RP20240 16M Black:
+	
+- https://amzn.eu/d/30erm6Y
+	
+- https://it.aliexpress.com/item/1005006128042609.html
+	
+Barrel jack connector 5.5-2.1:
+	
+- https://amzn.eu/d/fFGX126
+	
+- https://it.aliexpress.com/item/4000583899030.html
+	
+Alimentatore 5V 2A 5.5-2.1:
+	
+- https://amzn.eu/d/hgM6a9a
+	
+- https://it.aliexpress.com/item/32844702891.html
 
-    5 Pulsanti (collegati a GPIO)
-
-    Alimentazione 5V per pannello LED e RP2040 (Vin)
-
-    Struttura stampata in 3D : https://makerworld.com/it/models/1554656-bartop-pixel-arcade-game#profileId-1633266
-	
-	#Materiale utilizzato - link Amazon/Aliexpress:
-	
-	Pulsante START: 7mm PBS-110
-	
-	- https://amzn.eu/d/9DxOjs4
-	
-	- https://it.aliexpress.com/item/1005008333401098.html
-	
-	Pulsanti: Pulsante 16MM 3A 
-	
-	- https://amzn.eu/d/bFmCU81
-	
-	- https://it.aliexpress.com/item/1005001709481942.html
-	
-	Pannello 16x16 WS2812B: 
-	
-	- https://amzn.eu/d/deiAU8E
-	
-	- https://it.aliexpress.com/item/4001298469994.html
-	
-	Raspberry PI PICO RP20240 16M Black:
-	
-	- https://amzn.eu/d/30erm6Y
-	
-	- https://it.aliexpress.com/item/1005006128042609.html
-	
-	Barrel jack connector 5.5-2.1:
-	
-	- https://amzn.eu/d/fFGX126
-	
-	- https://it.aliexpress.com/item/4000583899030.html
-	
-	Alimentatore 5V 2A 5.5-2.1:
-	
-	- https://amzn.eu/d/hgM6a9a
-	
-	- https://it.aliexpress.com/item/32844702891.html
+Alimentazione 5V per pannello LED e RP2040 (Vin)
 	
 
 🧑‍💻 Come caricare MicroPython e i giochi
