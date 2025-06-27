@@ -1,4 +1,4 @@
-#🎮 Pixel Arcade
+🎮 Pixel Arcade
 
 Pixel Arcade è un mini cabinato arcade stampato in 3D, basato sulla struttura OraQuadra di Davide Gatti, pensato per portare il divertimento retro direttamente sul tuo tavolo!
 È un progetto open-source che unisce elettronica, stampa 3D e programmazione in MicroPython su Raspberry Pi Pico 2040.
@@ -22,14 +22,17 @@ Pixel Arcade è un mini cabinato arcade stampato in 3D, basato sulla struttura O
 🕹️ Giochi inclusi
 
 Attualmente nel sistema sono installati 7 giochi, ognuno progettato per sfruttare la semplicità e lo stile grafico retro del display 16x16.
-Il programma principale main.py consente di selezionare e avviare ogni gioco direttamente dal mini cabinato.
+
 Sub Hunt, Space, Block, Race, PxMan, Pong, Sheriff
+
+Il programma principale main.py consente di selezionare e avviare ogni gioco direttamente dal mini cabinato.
+
 
 🧰 Componenti
 
 Struttura stampata in 3D : https://makerworld.com/it/models/1554656-bartop-pixel-arcade-game#profileId-1633266
 	
-#Materiale utilizzato - link Amazon/Aliexpress:
+**Materiale utilizzato - link Amazon/Aliexpress:**
 	
 Pulsante START: 7mm PBS-110
 
