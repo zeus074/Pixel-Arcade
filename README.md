@@ -122,11 +122,12 @@ Sub Hunt, Space, Block, Race, PxMan, Pong, Sheriff
 ![alt text](https://github.com/zeus074/Pixel-Arcade/blob/main/img/pixel_arcade3.jpg)
 
 
-📄 Schema dei collegamenti
-![PDF](https://github.com/zeus074/Pixel-Arcade/blob/main/schematic/Schematic_Pixel_Arcade.pdf)
+📄 <a href="https://github.com/zeus074/Pixel-Arcade/blob/main/schematic/Schematic_Pixel_Arcade.pdf">Schema dei collegamenti</a>
+
+Trovare il firmware da caricare su RP2040 nella cartella firmware.
 
 📎 Ringraziamenti
 
-    A Davide Gatti per la base OraQuadra su cui si basa la struttura del cabinato.
-
-    A tutti gli sviluppatori della comunità MicroPython e della scena DIY arcade.
+    A Davide Gatti (Survival Hacking) per la base OraQuadra su cui si basa la struttura del cabinato.
+	
+	https://github.com/SurvivalHacking/OraQuadra
