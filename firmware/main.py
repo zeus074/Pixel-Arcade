@@ -24,7 +24,7 @@ buzzer = machine.PWM(machine.Pin(BUZZER_PIN)); buzzer.duty_u16(0)
 # L'icona viene presa dal dizionario ICONS
 GAMES = [
     {'name': 'LOGO', 'file': '', 'icon': ICONS['logo']},
-    {'name': 'SUB', 'file': 'depth4', 'icon': ICONS['sub']},
+    {'name': 'SUB', 'file': 'depth_multi', 'icon': ICONS['sub']},
     {'name': 'SPACE', 'file': 'invaders', 'icon': ICONS['invaders']},
     {'name': 'BREAK', 'file': 'breakout', 'icon': ICONS['arkanoid']},
     {'name': 'RACE', 'file': 'cars', 'icon': ICONS['race']},
